@@ -7,7 +7,6 @@ AI & ML enthusiast and python developer
 Persuing Applied AI
 
 *   🌍  I'm based in India
-*   ✉️  You can contact me at [surajsarkar1002@gmail.com](mailto:surajsarkar1002@gmail.com)
 *   🧠  I'm learning Next.js, kaboom
 *   🤝  I'm open to collaborating on New ideas, startups, pyhton and AI/ML projects, hackathons.
 
