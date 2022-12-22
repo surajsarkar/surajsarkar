@@ -7,8 +7,8 @@ AI & ML enthusiast and python developer
 Persuing Applied AI
 
 *   🌍  I'm based in India
-*   🧠  I'm learning Next.js, kaboom
-*   🤝  I'm open to collaborating on New ideas, startups, pyhton and AI/ML projects, hackathons.
+*   🧠  I'm learning `ros`
+*   🤝  I'm open to collaborating on `robotics` New ideas, startups, pyhton and AI/ML projects, hackathons.
 
 ### Skills 
 <p align="left">
