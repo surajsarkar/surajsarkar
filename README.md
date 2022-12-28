@@ -8,7 +8,8 @@ Persuing Applied AI
 
 *   🌍  I'm based in India
 *   🧠  I'm learning `ros`
-*   🤝  I'm open to collaborating on `robotics` New ideas, startups, pyhton and AI/ML projects, hackathons.
+*   📪  You can connect with me on <a href="www.linkedin.com/in/surajsarkar0">Linkedin</a>
+*   🤝  I'm open to collaborating on `robotics` New ideas, startups, pyhton and AI/ML projects, hackathons.
 
 ### Skills 
 <p align="left">
