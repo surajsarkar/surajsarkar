@@ -1,12 +1,16 @@
-<!-- HEADER ANIMATION -->
+<div align="center">
+  <h1>Suraj Sarkar | AI Engineer</h1>
+  <h3>I Like Making Systems That Make AI Work</h3>
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Suraj+Sarkar;Backend+Software+Engineer;Building+stable%2C+scalable+systems;Python+%7C+Go+%7C+Rust" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Python+%7C+Go+%7C+Rust;LLM+Inference+Optimization;RAG+%26+Applied+AI;Backend+Infrastructure" alt="Core Competencies Animation" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/surajsarkar0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:connect@browniestudio.io"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/surajsarkar0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Suraj Sarkar LinkedIn Profile"></a>
+  <a href="mailto:connect@browniestudio.io"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Contact Suraj Sarkar via Email"></a>
+  <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Suraj Sarkar Portfolio Website"></a>
 </p>
 
 ---
@@ -15,8 +19,8 @@
 
 > I build backend systems that are fast, stable, and easy to maintain. I value simple solutions over clever code, and clear architecture over a long list of tools.
 
-*   **Backend Engineering:** Writing clean microservices and data pipelines. I primarily work with **Python**, **Go**, and **Rust**.
 *   **Applied AI:** Setting up local AI infrastructure—focusing on LLM inference optimization, RAG, and model quantization.
+*   **Backend Engineering:** Writing clean microservices and data pipelines. I primarily work with **Python**, **Go**, and **Rust**.
 *   **Robotics:** Designing structural and control software for autonomous robotic systems.
 
 ---
@@ -34,7 +38,7 @@ Instead of a wall of flashing badges, here is the core stack I actually use to s
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, Go, Rust, C++ |
+| **Languages** | Python, Go, Rust |
 | **Infrastructure** | PostgreSQL, Redis, Docker, gRPC, FastAPI |
 | **AI / Machine Learning** | vLLM, Ollama, PyTorch, LangChain |
 
