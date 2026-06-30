@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Suraj Sarkar | AI Engineer</h1>
+  <h1>Suraj Sarkar</h1>
   <h3>I Like Making Systems That Make AI Work</h3>
 </div>
 
