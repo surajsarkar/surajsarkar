@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/surajsarkar0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Suraj Sarkar LinkedIn Profile"></a>
   <a href="mailto:connect@browniestudio.io"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Contact Suraj Sarkar via Email"></a>
-  <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Suraj Sarkar Portfolio Website"></a>
+  <a href="https://surajsarkar.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Suraj Sarkar Portfolio Website"></a>
 </p>
 
 ---
