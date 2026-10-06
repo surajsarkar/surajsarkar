@@ -27,7 +27,7 @@
 
 ## 🚀 Current Work
 
-*   **Brownie Studio:** Building robust digital infrastructure and software products for complex businesses.
+*   **<a href="https://browniestudio.io">Brownie</a>:** Applied intelligence bridging the gap between data and decision, powering operations and workflows quietly.
 *   **Open Source:** Contributing to local LLM tooling and developer workflow automation.
 
 ---
